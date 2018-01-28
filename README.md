@@ -1,2 +1,2 @@
 # scripts
-My public scripts for making even simple manual tasks even faster
+This repository is mainly for managing simple scripts that help with tasks that I find myself doing often.
